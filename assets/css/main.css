@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 400;
-		color: #FFFFFF;
+		color: #000000;
 		font-size: 13pt;
 		line-height: 2em;
 	}
@@ -109,7 +109,7 @@ input, select, textarea {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		color: ##ff1100;
+		color: #FFFF00;
 		margin: 0 0 0.5em 0;
 		line-height: 1.3;
 	}
