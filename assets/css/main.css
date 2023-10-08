@@ -133,7 +133,7 @@ input, select, textarea {
 		}
 
 			h2.major span {
-				background: #000080;
+				background: #fff;
 				position: relative;
 				display: inline-block;
 				top: -0.775em;
@@ -1793,7 +1793,7 @@ input, select, textarea {
 		text-transform: uppercase;
 		text-decoration: none;
 		background: #f09e51;
-		color: #fff;
+		color: #000080;
 		border: 0;
 		line-height: 1em;
 		border-radius: 8px;
