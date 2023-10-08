@@ -133,7 +133,7 @@ input, select, textarea {
 		}
 
 			h2.major span {
-				background: #fff;
+				background: #000080;
 				position: relative;
 				display: inline-block;
 				top: -0.775em;
@@ -2028,7 +2028,7 @@ input, select, textarea {
 					height: 2.25em;
 					line-height: 2.175em;
 					font-size: 5em;
-					color: #fff;
+					color: #000080;
 				}
 
 			ul.special li:hover {
@@ -2188,7 +2188,7 @@ input, select, textarea {
 
 			table.default thead {
 				background: #E7EAE8;
-				color: #fff;
+				color: #000080;
 			}
 
 /* Box */
