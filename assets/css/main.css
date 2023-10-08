@@ -2309,7 +2309,7 @@ input, select, textarea {
 		font-weight: 700;
 		text-transform: uppercase;
 		padding: 2em 0;
-		background: #fff;
+		background: #000080;
 		margin: 0 auto;
 	}
 
@@ -2321,7 +2321,7 @@ input, select, textarea {
 		}
 
 			#header .logo div {
-				background: #fff;
+				background: #000080;
 				position: relative;
 				display: inline-block;
 				padding: 0 1.5em 0 1.5em;
@@ -2403,23 +2403,23 @@ input, select, textarea {
 
 			#nav li:hover a, #nav li:hover span {
 				background: #C1CAC5;
-				color: #fff;
+				color: #000080;
 			}
 
 			#nav li.active a, #nav li.active span {
 				background: #C1CAC5;
-				color: #fff;
+				color: #000080;
 			}
 
 			#nav li.current a {
 				background: #F09E51;
-				color: #fff;
+				color: #000080;
 			}
 
 	.dropotron {
 		list-style: none;
 		background: #6B7770;
-		color: #fff;
+		color: #000080;
 		border-radius: 6px;
 		line-height: 2.75em;
 		text-align: center;
@@ -2445,12 +2445,12 @@ input, select, textarea {
 			}
 
 			.dropotron li:hover > a, .dropotron li:hover > span {
-				color: #fff;
+				color: #000080;
 				background: #7B8780;
 			}
 
 			.dropotron li.active > a, .dropotron li.active > span {
-				color: #fff;
+				color: #000080;
 				background: #7B8780;
 			}
 
