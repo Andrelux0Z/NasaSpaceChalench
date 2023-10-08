@@ -2309,7 +2309,7 @@ input, select, textarea {
 		font-weight: 700;
 		text-transform: uppercase;
 		padding: 2em 0;
-		background: #fff;
+		background: #C5CAE1;
 		margin: 0 auto;
 	}
 
@@ -2403,17 +2403,17 @@ input, select, textarea {
 
 			#nav li:hover a, #nav li:hover span {
 				background: #C1CAC5;
-				color: #fff;
+				color: #C5CAE1;
 			}
 
 			#nav li.active a, #nav li.active span {
 				background: #C1CAC5;
-				color: #fff;
+				color: #C5CAE1;
 			}
 
 			#nav li.current a {
 				background: #F09E51;
-				color: #fff;
+				color: #C5CAE1;
 			}
 
 	.dropotron {
