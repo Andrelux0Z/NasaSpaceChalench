@@ -1830,7 +1830,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #c1cac5;
+			background: #756D54;
 		}
 
 			input[type="button"].alt:hover,
@@ -1947,7 +1947,7 @@ input, select, textarea {
 				height: 48px;
 				border-radius: 6px;
 				outline: 0;
-				background: #c1cac5;
+				background: #756D54;
 				text-align: center;
 			}
 
@@ -2022,7 +2022,7 @@ input, select, textarea {
 					transition: background-color .2s ease-in-out;
 					display: block;
 					text-align: center;
-					background: #c1cac5;
+					background: #756D54;
 					border-radius: 100%;
 					width: 2.25em;
 					height: 2.25em;
@@ -2334,7 +2334,7 @@ input, select, textarea {
 
 			#header .logo p {
 				display: inline;
-				color: #C1CAC5;
+				color: #756D54;
 			}
 
 /* Nav */
@@ -2402,12 +2402,12 @@ input, select, textarea {
 			}
 
 			#nav li:hover a, #nav li:hover span {
-				background: #C1CAC5;
+				background: #756D54;
 				color: #fff;
 			}
 
 			#nav li.active a, #nav li.active span {
-				background: #C1CAC5;
+				background: #756D54;
 				color: #fff;
 			}
 
@@ -2541,7 +2541,7 @@ input, select, textarea {
 	#main {
 		background: #C5CAE1;
 		border-top: solid 5px #F09E51;
-		border-bottom: solid 5px #c1cac5;
+		border-bottom: solid 5px #756D54;
 		border-top-width: 35px;
 		border-bottom-width: 10px;
 		padding: 6em 0 6em 0;
@@ -2597,7 +2597,7 @@ input, select, textarea {
 		}
 
 			#copyright .menu li {
-				border-color: #C1CAC5;
+				border-color: #756D54;
 				border-width: 2px;
 				line-height: 1em;
 			}
