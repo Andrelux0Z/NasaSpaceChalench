@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 400;
-		color: #FFFF00;
+		color: #FFFFFF;
 		font-size: 13pt;
 		line-height: 2em;
 	}
@@ -125,7 +125,7 @@ input, select, textarea {
 
 		h2.major {
 			position: relative;
-			border-top: solid 5px #e7eae8;
+			border-top: solid 5px #FFFF00;
 			font-size: 1.65em;
 			text-align: center;
 			margin: 0 0 3em 0;
