@@ -2028,7 +2028,7 @@ input, select, textarea {
 					height: 2.25em;
 					line-height: 2.175em;
 					font-size: 5em;
-					color: #fff;
+					color: #000080;
 				}
 
 			ul.special li:hover {
@@ -2309,7 +2309,7 @@ input, select, textarea {
 		font-weight: 700;
 		text-transform: uppercase;
 		padding: 2em 0;
-		background: #fff;
+		background: #000080;
 		margin: 0 auto;
 	}
 
@@ -2321,7 +2321,7 @@ input, select, textarea {
 		}
 
 			#header .logo div {
-				background: #fff;
+				background: #000080;
 				position: relative;
 				display: inline-block;
 				padding: 0 1.5em 0 1.5em;
