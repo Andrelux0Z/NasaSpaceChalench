@@ -133,7 +133,7 @@ input, select, textarea {
 		}
 
 			h2.major span {
-				background: #000080;
+				background: #fff;
 				position: relative;
 				display: inline-block;
 				top: -0.775em;
@@ -1793,7 +1793,7 @@ input, select, textarea {
 		text-transform: uppercase;
 		text-decoration: none;
 		background: #f09e51;
-		color: #000080;
+		color: #fff;
 		border: 0;
 		line-height: 1em;
 		border-radius: 8px;
@@ -2028,7 +2028,7 @@ input, select, textarea {
 					height: 2.25em;
 					line-height: 2.175em;
 					font-size: 5em;
-					color: #000080;
+					color: #fff;
 				}
 
 			ul.special li:hover {
@@ -2188,7 +2188,7 @@ input, select, textarea {
 
 			table.default thead {
 				background: #E7EAE8;
-				color: #000080;
+				color: #fff;
 			}
 
 /* Box */
@@ -2309,7 +2309,7 @@ input, select, textarea {
 		font-weight: 700;
 		text-transform: uppercase;
 		padding: 2em 0;
-		background: #000080;
+		background: #fff;
 		margin: 0 auto;
 	}
 
@@ -2321,7 +2321,7 @@ input, select, textarea {
 		}
 
 			#header .logo div {
-				background: #000080;
+				background: #fff;
 				position: relative;
 				display: inline-block;
 				padding: 0 1.5em 0 1.5em;
@@ -2403,17 +2403,17 @@ input, select, textarea {
 
 			#nav li:hover a, #nav li:hover span {
 				background: #C1CAC5;
-				color: #000080;
+				color: #fff;
 			}
 
 			#nav li.active a, #nav li.active span {
 				background: #C1CAC5;
-				color: #000080;
+				color: #fff;
 			}
 
 			#nav li.current a {
 				background: #F09E51;
-				color: #000080;
+				color: #fff;
 			}
 
 	.dropotron {
@@ -2499,7 +2499,7 @@ input, select, textarea {
 		}
 
 			#banner .content h2 {
-				color: #fff;
+				color: #000080;
 				font-size: 2.75em;
 				margin: 0 0 0.5em 0;
 			}
@@ -2532,7 +2532,7 @@ input, select, textarea {
 				}
 
 				#banner .content .button:active {
-					color: #fff;
+					color: #000080;
 					border-color: #616763;
 				}
 
